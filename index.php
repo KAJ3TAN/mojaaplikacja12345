@@ -1,6 +1,5 @@
 <?php
-$env = getenv('ENV');
-echo "Aktualne środowisko: " . $env;
+echo "Wdrożenie za pomocą GitHub Actions"
 ?>
 <!DOCTYPE html>
 <html lang="pl">
